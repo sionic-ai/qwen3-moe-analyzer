@@ -1,0 +1,5 @@
+vllm
+mlx-core
+mlx-lm
+tabulate
+numpy
